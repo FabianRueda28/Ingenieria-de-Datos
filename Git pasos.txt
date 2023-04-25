@@ -1,0 +1,8 @@
+Cómo subir el código de un proyecto al repositorio de GitHub:
+git init 
+git add 
+git commit -m “Creado el proyecto inicial” 
+git remote add origin URLrepositorio.git 
+git push origin master 
+
+
